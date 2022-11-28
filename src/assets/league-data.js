@@ -3,7 +3,7 @@ export const leagueData = [
         "name": "Aatrox",
         "description": "The Darkin Blade",
         "price": 4800,
-        "image": "../images/AatroxSquare.webp",
+        "image": "./images/AatroxSquare.webp",
         "class": ["Juggernaut", "All"],
         "attack": "melee",
         "id": 0
@@ -13,7 +13,7 @@ export const leagueData = [
         "name": "Ahri",
         "description": "The Nine-Tailed Fox",
         "price": 3150,
-        "image": "../images/AhriSquare.webp",
+        "image": "./images/AhriSquare.webp",
         "class": ["Burst", "All"],
         "attack": "ranged",
         "id": 1
@@ -23,7 +23,7 @@ export const leagueData = [
         "name": "Akali",
         "description": "The Rogue Assassin",
         "price": 3150,
-        "image": "../images/AkaliSquare.webp",
+        "image": "./images/AkaliSquare.webp",
         "class": ["Assassin", "All"],
         "attack": "melee",
         "id": 2
@@ -33,7 +33,7 @@ export const leagueData = [
         "name": "Akshan",
         "description": "The Rogue Sentinel",
         "price": 6300,
-        "image": "../images/AkshanSquare.webp",
+        "image": "./images/AkshanSquare.webp",
         "class": ["Marksman", "All"],
         "attack": "ranged",
         "id": 3
@@ -43,7 +43,7 @@ export const leagueData = [
         "name": "Braum",
         "description": "The Heart of the Freljord",
         "price": 4800,
-        "image": "../images/BraumSquare.webp",
+        "image": "./images/BraumSquare.webp",
         "class": ["Warden", "All"],
         "attack": "melee",
         "id": 4
@@ -53,7 +53,7 @@ export const leagueData = [
         "name": "Caitlyn",
         "description": "The Sheriff of Piltover",
         "price": 4800,
-        "image": "../images/CaitlynSquare.webp",
+        "image": "./images/CaitlynSquare.webp",
         "class": ["Marksman", "All"],
         "attack": "ranged",
         "id": 5
@@ -63,7 +63,7 @@ export const leagueData = [
         "name": "Camille",
         "description": "The Steel Shadow",
         "price": 6300,
-        "image": "../images/CamilleSquare.webp",
+        "image": "./images/CamilleSquare.webp",
         "class": ["Diver", "All"],
         "attack": "melee",
         "id": 6
@@ -73,7 +73,7 @@ export const leagueData = [
         "name": "Cassiopeia",
         "description": "The Serpent's Embrace",
         "price": 4800,
-        "image": "../images/CassiopeiaSquare.webp",
+        "image": "./images/CassiopeiaSquare.webp",
         "class": ["Battlemage", "All"],
         "attack": "ranged",
         "id": 7
@@ -83,7 +83,7 @@ export const leagueData = [
         "name": "Fizz",
         "description": "The Tidal Trickster",
         "price": 4800,
-        "image": "../images/FizzSquare.webp",
+        "image": "./images/FizzSquare.webp",
         "class": ["Assassin", "All"],
         "attack": "melee",
         "id": 8
@@ -93,7 +93,7 @@ export const leagueData = [
         "name": "Galio",
         "description": "The Colossus",
         "price": 4800,
-        "image": "../images/GalioSquare.webp",
+        "image": "./images/GalioSquare.webp",
         "class": ["Warden", "All"],
         "attack": "melee",
         "id": 9
@@ -103,7 +103,7 @@ export const leagueData = [
         "name": "Gangplank",
         "description": "The Saltwater Scourge",
         "price": 3150,
-        "image": "../images/GangplankSquare.webp",
+        "image": "./images/GangplankSquare.webp",
         "class": ["Specialist", "All"],
         "attack": "melee",
         "id": 10
@@ -113,7 +113,7 @@ export const leagueData = [
         "name": "Garen",
         "description": "The Might of Demacia",
         "price": 450,
-        "image": "../images/GarenSquare.webp",
+        "image": "./images/GarenSquare.webp",
         "class": ["Juggernaut", "All"],
         "attack": "melee",
         "id": 11
@@ -123,7 +123,7 @@ export const leagueData = [
         "name": "Jayce",
         "description": "The Defender of Tomorrow",
         "price": 4800,
-        "image": "../images/JayceSquare.webp",
+        "image": "./images/JayceSquare.webp",
         "class": ["Artillery", "All"],
         "attack": "ranged",
         "id": 12
@@ -133,7 +133,7 @@ export const leagueData = [
         "name": "Jhin",
         "description": "The Virtuoso",
         "price": 4800,
-        "image": "../images/JhinSquare.webp",
+        "image": "./images/JhinSquare.webp",
         "class": ["Marksman", "All"],
         "attack": "ranged",
         "id": 13
@@ -143,7 +143,7 @@ export const leagueData = [
         "name": "Jinx",
         "description": "The Loose Cannon",
         "price": 4800,
-        "image": "../images/JinxSquare.webp",
+        "image": "./images/JinxSquare.webp",
         "class": ["Marksman", "All"],
         "attack": "ranged",
         "id": 14
@@ -153,7 +153,7 @@ export const leagueData = [
         "name": "Taliyah",
         "description": "The Stoneweaver",
         "price": 6300,
-        "image": "../images/TaliyahSquare.webp",
+        "image": "./images/TaliyahSquare.webp",
         "class": ["Battlemage", "All"],
         "attack": "ranged",
         "id": 15
