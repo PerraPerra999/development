@@ -3,7 +3,7 @@ export const leagueData = [
         "name": "Aatrox",
         "description": "The Darkin Blade",
         "price": 4800,
-        "image": "./images/AatroxSquare.webp",
+        "image": "../images/AatroxSquare.webp",
         "class": ["Juggernaut", "All"],
         "attack": "melee",
         "id": 0
